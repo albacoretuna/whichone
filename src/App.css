@@ -22,3 +22,15 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.Table,
+.Table td,
+.Table th {
+  border: 1px solid black;
+  width: 100%;
+  max-width: 30vw;
+}
+
+.Photo {
+  max-width: 100%;
+}
